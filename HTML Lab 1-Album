@@ -1,35 +1,35 @@
 <!DOCTYPE html>
 <html lang="en-US">
-<head>
-    <title><b>Boulevard of Broken Dreams</b></title>
-</head>
-<body>
-    <div>
-        <h1>Green Day</h1>
-    </div>
-    <div>
-        <h2>Release Date: 2004</h2>
-        <p>
-           Description of the album:  Green Day's album Boulevard of Broken Dreams came out in 2004.
-        </p>
-       <div>
-         <p>
-            Duis ligula sem, elementum sit amet luctus at, 
-            aliquam at eros. Interdum et malesuada
-            fames ac ante ipsum primis in faucibus. Suspendisse
-            id nisl id diam dapibus mollis. Praesent consectetur 
-            feugiat velit.
-        </p>
-    </div>
-    <div>
-        <h1>Band Members</h1>
-        <p>
-           <ul>
-             <li> Billy Joel - Lead Guitar </li>
-             <li> Tre Cool - Drums </li>
-             <li> Mike Dirnt - Bass Guitar </li>
-           </ul>
-        </p>
-    </div>
-</body>
+    <head>
+        <title><b>Boulevard of Broken Dreams</b></title>
+    </head>
+    <body>
+        <div>
+            <h1>Green Day</h1>
+        </div>
+        <div>
+            <h2>Release Date: 2004</h2>
+            <p>
+               Description of the album:  Green Day's album Boulevard of Broken Dreams came out in 2004.
+            </p>
+           <div>
+             <p>
+                Duis ligula sem, elementum sit amet luctus at, 
+                aliquam at eros. Interdum et malesuada
+                fames ac ante ipsum primis in faucibus. Suspendisse
+                id nisl id diam dapibus mollis. Praesent consectetur 
+                feugiat velit.
+            </p>
+        </div>
+        <div>
+            <h1>Band Members</h1>
+            <p>
+               <ul>
+                 <li> Billy Joel - Lead Guitar </li>
+                 <li> Tre Cool - Drums </li>
+                 <li> Mike Dirnt - Bass Guitar </li>
+               </ul>
+            </p>
+        </div>
+    </body>
 </html>
